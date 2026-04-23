@@ -11,3 +11,4 @@
     "exclude": ["/images/*.{png,jpg,gif,svg}", "/css/*", "/js/*"]
   }
 }
+
